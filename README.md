@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚧 Under Construction
+Hey,This profile is a work in progress — I'm gradually porting my untiled1,2,3... collab notebooks experiments, CUDA kernels here
 
-<!--
-**RohanGudur/RohanGudur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main interest lies in **machine learning systems** — especially building and understanding the training and inference pipelines end-to-end.
 
-Here are some ideas to get you started:
+Right now, I'm focused on:
+- Writing efficient CUDA kernels
+- Understanding GPU-level optimizations
+- Exploring system-level design for ML training (Megatron , FSDP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently ranked **#58** on the global leaderboard at [leetgpu.com](https://leetgpu.com), a platform for solving low-level GPU programming challenges.
+more to come soon 🚀
+
